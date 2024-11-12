@@ -9,7 +9,7 @@ I'm a recent **Software Engineering graduate** with a strong focus on **backend 
 - **Other**: Database Design, API Development, Data Processing
 
 📫 Let's Connect!
-- **LinkedIn**: [Marijana's LinkedIn](https://linkedin.com/in/marijana-g)
+- **LinkedIn**: [Marijana's LinkedIn](https://www.linkedin.com/in/marijanailiev/)
 - **GitHub**: [MarijanaG](https://github.com/MarijanaG)
 - **Email**: [marijana@example.com](mailto:marijanailiev@gmail.com)
 
