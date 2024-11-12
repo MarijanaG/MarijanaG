@@ -11,5 +11,5 @@ I'm a recent **Software Engineering graduate** with a strong focus on **backend 
 📫 Let's Connect!
 - **LinkedIn**: [Marijana's LinkedIn](https://www.linkedin.com/in/marijanailiev/)
 - **GitHub**: [MarijanaG](https://github.com/MarijanaG)
-- **Email**: (mailto:marijanailiev@gmail.com)
+- **Email**: [Marijana's Email](mailto:marijanailiev@gmail.com)
 
